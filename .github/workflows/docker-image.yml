@@ -19,3 +19,4 @@ jobs:
       with:
         file: ./Dockerfile 
         push: true
+        tags: twsl/latex-alpine:latest 
